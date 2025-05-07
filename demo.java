@@ -17,6 +17,8 @@ public void displayInfo() {
 public static void main(String[] args){
     demo emp1= new demo("XYZ",101,50000.0);
     emp1.displayInfo();
+    demo emp2= new demo("XYZ",101,50000.0);
+    emp2.displayInfo();
 }
 }
 
